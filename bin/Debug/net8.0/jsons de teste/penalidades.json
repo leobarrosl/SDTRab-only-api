@@ -1,0 +1,194 @@
+[
+    {
+        "CategoriaEmpresa": "1",
+        "LevelInfringido": "1",
+        "ValorMinimo": "575.00",
+        "ValorMaximo": "665.36"
+    },
+    {
+        "CategoriaEmpresa": "1",
+        "LevelInfringido": "2",
+        "ValorMinimo": "1030.44",
+        "ValorMaximo": "1271.39"
+    },
+    {
+        "CategoriaEmpresa": "1",
+        "LevelInfringido": "3",
+        "ValorMinimo": "1543.38",
+        "ValorMaximo": "1908.46"
+    },
+    {
+        "CategoriaEmpresa": "1",
+        "LevelInfringido": "4",
+        "ValorMinimo": "2055.40",
+        "ValorMaximo": "2548.27"
+    },
+    {
+        "CategoriaEmpresa": "2",
+        "LevelInfringido": "1",
+        "ValorMinimo": "666.27",
+        "ValorMaximo": "757.54"
+    },
+    {
+        "CategoriaEmpresa": "2",
+        "LevelInfringido": "2",
+        "ValorMinimo": "1272.31",
+        "ValorMaximo": "1518.73"
+    },
+    {
+        "CategoriaEmpresa": "2",
+        "LevelInfringido": "3",
+        "ValorMinimo": "1909.38",
+        "ValorMaximo": "2277.19"
+    },
+    {
+        "CategoriaEmpresa": "2",
+        "LevelInfringido": "4",
+        "ValorMinimo": "2549.18",
+        "ValorMaximo": "3042.95"
+    },
+    {
+        "CategoriaEmpresa": "3",
+        "LevelInfringido": "1",
+        "ValorMinimo": "758.46",
+        "ValorMaximo": "878.93"
+    },
+    {
+        "CategoriaEmpresa": "3",
+        "LevelInfringido": "2",
+        "ValorMinimo": "1519.65",
+        "ValorMaximo": "1766.08"
+    },
+    {
+        "CategoriaEmpresa": "3",
+        "LevelInfringido": "3",
+        "ValorMinimo": "2278.10",
+        "ValorMaximo": "2645.01"
+    },
+    {
+        "CategoriaEmpresa": "3",
+        "LevelInfringido": "4",
+        "ValorMinimo": "3043.86",
+        "ValorMaximo": "3537.63"
+    },
+    {
+        "CategoriaEmpresa": "4",
+        "LevelInfringido": "1",
+        "ValorMinimo": "879.84",
+        "ValorMaximo": "1007.63"
+    },
+    {
+        "CategoriaEmpresa": "4",
+        "LevelInfringido": "2",
+        "ValorMinimo": "1766.99",
+        "ValorMaximo": "2007.95"
+    },
+    {
+        "CategoriaEmpresa": "4",
+        "LevelInfringido": "3",
+        "ValorMinimo": "2645.93",
+        "ValorMaximo": "3013.75"
+    },
+    {
+        "CategoriaEmpresa": "4",
+        "LevelInfringido": "4",
+        "ValorMinimo": "3538.55",
+        "ValorMaximo": "4032.32"
+    },
+    {
+        "CategoriaEmpresa": "5",
+        "LevelInfringido": "1",
+        "ValorMinimo": "1008.54",
+        "ValorMaximo": "1132.67"
+    },
+    {
+        "CategoriaEmpresa": "5",
+        "LevelInfringido": "2",
+        "ValorMinimo": "2008.85",
+        "ValorMaximo": "2255.29"
+    },
+    {
+        "CategoriaEmpresa": "5",
+        "LevelInfringido": "3",
+        "ValorMinimo": "3014.65",
+        "ValorMaximo": "3393.42"
+    },
+    {
+        "CategoriaEmpresa": "5",
+        "LevelInfringido": "4",
+        "ValorMinimo": "4033.23",
+        "ValorMaximo": "4516.05"
+    },
+    {
+        "CategoriaEmpresa": "6",
+        "LevelInfringido": "1",
+        "ValorMinimo": "1133.57",
+        "ValorMaximo": "1254.05"
+    },
+    {
+        "CategoriaEmpresa": "6",
+        "LevelInfringido": "2",
+        "ValorMinimo": "2256.20",
+        "ValorMaximo": "2508.11"
+    },
+    {
+        "CategoriaEmpresa": "6",
+        "LevelInfringido": "3",
+        "ValorMinimo": "3394.34",
+        "ValorMaximo": "3761.25"
+    },
+    {
+        "CategoriaEmpresa": "6",
+        "LevelInfringido": "4",
+        "ValorMinimo": "4516.96",
+        "ValorMaximo": "5010.74"
+    },
+    {
+        "CategoriaEmpresa": "7",
+        "LevelInfringido": "1",
+        "ValorMinimo": "1254.97",
+        "ValorMaximo": "1375.44"
+    },
+    {
+        "CategoriaEmpresa": "7",
+        "LevelInfringido": "2",
+        "ValorMinimo": "2509.02",
+        "ValorMaximo": "2756.36"
+    },
+    {
+        "CategoriaEmpresa": "7",
+        "LevelInfringido": "3",
+        "ValorMinimo": "3762.16",
+        "ValorMaximo": "4129.98"
+    },
+    {
+        "CategoriaEmpresa": "7",
+        "LevelInfringido": "4",
+        "ValorMinimo": "5011.65",
+        "ValorMaximo": "5506.34"
+    },
+    {
+        "CategoriaEmpresa": "8",
+        "LevelInfringido": "1",
+        "ValorMinimo": "1376.35",
+        "ValorMaximo": "1502.31"
+    },
+    {
+        "CategoriaEmpresa": "8",
+        "LevelInfringido": "2",
+        "ValorMinimo": "2757.28",
+        "ValorMaximo": "2997.31"
+    },
+    {
+        "CategoriaEmpresa": "8",
+        "LevelInfringido": "3",
+        "ValorMinimo": "4130.89",
+        "ValorMaximo": "4498.71"
+    },
+    {
+        "CategoriaEmpresa": "8",
+        "LevelInfringido": "4",
+        "ValorMinimo": "5507.25",
+        "ValorMaximo": "5750.00"
+    }
+]
