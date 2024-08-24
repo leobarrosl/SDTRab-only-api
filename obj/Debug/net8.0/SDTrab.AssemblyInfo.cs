@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SDTrab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c2c08493f713209c5d9bbcc90603dae8a3fdb48")]
 [assembly: System.Reflection.AssemblyProductAttribute("SDTrab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SDTrab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
